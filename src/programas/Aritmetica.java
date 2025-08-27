@@ -15,6 +15,7 @@ public class Aritmetica {
         suma=num1+num2;
         promedio=suma/2;
         //salida de datos
+        System.out.println("Resultados de la aplicación");
         System.out.println("La suma es: "+suma);
         System.out.println("El promedio es: "+promedio);
     }
